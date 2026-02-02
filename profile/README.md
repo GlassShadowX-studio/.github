@@ -9,9 +9,7 @@
 
 We are a studio to discover better UI.
 
-<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GlassShadowX" /> </div>
-
-<img   align="left" src="https://github-readme-stats.vercel.app/api?username=GlassShadowX&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=GlassShadowX&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 
 Studio Creator: @**Wanyyq**(github)
 
