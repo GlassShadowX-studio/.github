@@ -1,4 +1,4 @@
-# <p align="center">✨ GlassShadowX </p>
+# Welcome to 「GlassShadowX」
 
 ---
 
@@ -7,21 +7,12 @@
 
 ---
 
-### 🌑 关于我们 | About
-我们是一个追求**极简主义**与**数字艺术**平衡的技术工作室。我们相信优秀的工具不仅要好用，更要像艺术品一样优雅。
+We are a studio to discover better UI.
 
-* **透明 (Glass):** 坚持开源精神，逻辑清晰可见。
-* **深邃 (Shadow):** 专注底层细节，在暗处极致打磨。
+<div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=GlassShadowX" /> </div>
 
----
+<img   align="left" src="https://github-readme-stats.vercel.app/api?username=GlassShadowX&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 
-### 🛠️ 创造中的工坊 | Projects
-* **[项目名称]** - 极简主义的 [功能描述]。
-* **[项目名称]** - 探索 [领域] 的无限可能。
+Studio Creator: @**Wanyyq**(github)
 
----
-
-### 🧬 技术美学 | Stack
-`TypeScript` / `Rust` / `WebGPU` / `Swift`
-
----
+On February 2, 2026
