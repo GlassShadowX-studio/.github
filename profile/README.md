@@ -7,7 +7,7 @@
 
 ---
 
-We are a studio to discover better UI.
+We are a studio to discover better UI an idea.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GlassShadowX&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default"/>
 
